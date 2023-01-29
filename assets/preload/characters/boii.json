@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				5,
+				-6
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "Boii left"
+		},
+		{
+			"offsets": [
+				-20,
+				-51
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "Boii down"
+		},
+		{
+			"offsets": [
+				-46,
+				27
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "Boii up"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "Boii Idle"
+		},
+		{
+			"loop": true,
+			"offsets": [
+				-48,
+				-7
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "Boii right",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/boii",
+	"position": [
+		-1550,
+		-590
+	],
+	"healthicon": "boii",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		0,
+		0
+	],
+	"camera_position": [
+		1030,
+		690
+	],
+	"sing_duration": 4,
+	"scale": 0.4
+}

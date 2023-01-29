@@ -1,0 +1,50 @@
+{
+	"songs": [
+		[
+			"old-transportation",
+			"boii",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"old-kool-song",
+			"boii",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"old-short-song",
+			"boii",
+			[
+				146,
+				113,
+				253
+			]
+		]
+	],
+	"hiddenUntilUnlocked": false,
+	"hideFreeplay": false,
+	"weekBackground": "philly",
+	"difficulties": "",
+	"weekCharacters": [
+		"boii",
+		"bf",
+		"gf"
+	],
+	"storyName": "boii's old week",
+	"weekName": "boii's old week",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"hideStoryMode": false,
+	"weekBefore": "tutorial",
+	"startUnlocked": true
+}

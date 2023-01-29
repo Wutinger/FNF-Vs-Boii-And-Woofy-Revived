@@ -1,0 +1,36 @@
+{
+	"dialogue": [
+		{
+			"expression": "talk",
+			"text": "fsayhruiwerhbuiewgrvyuvftdxcfwadrtweftybcftriwvjmropemtjk\\nefsefsefsef\\nsefesfeses\\nfsefsef\\nesfe\\nfse\\nfesyawa\\nd\\nad\\nawd\\nawd\\nwad\\nawd\\nwd\\nwa\\ndaw\\ndw\\nad\\nwad\\nwa\\nd\\ndawd\\nw\\nd\\ndwa\\ndaw\\nd\\naw\\nda\\nd\\naw\\ndaw\\ndaw\\nd",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.005,
+			"portrait": "boii"
+		},
+		{
+			"expression": "talk",
+			"text": "ihadastroke",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf"
+		},
+		{
+			"expression": "talk",
+			"text": "howyoudospace",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "boii"
+		},
+		{
+			"expression": "talk",
+			"text": "dum dum",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "boii"
+		}
+	]
+}

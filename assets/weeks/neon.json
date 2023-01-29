@@ -1,0 +1,32 @@
+{
+	"storyName": "cats are liquid",
+	"difficulties": "cta",
+	"hideFreeplay": false,
+	"weekBackground": "stage",
+	"weekBefore": "tutorial",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": true,
+	"hideStoryMode": false,
+	"songs": [
+		[
+			"neon_shine_(test)",
+			"dad",
+			[
+				146,
+				113,
+				253
+			]
+		]
+	],
+	"weekCharacters": [
+		"",
+		"boii",
+		"gf"
+	],
+	"hiddenUntilUnlocked": false,
+	"weekName": "neon"
+}

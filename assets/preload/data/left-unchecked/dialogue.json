@@ -1,0 +1,60 @@
+{
+	"dialogue": [
+		{
+			"speed": 0.05,
+			"portrait": "spong",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "holy shit its sans from undertale"
+		},
+		{
+			"speed": 0.075,
+			"portrait": "spongebob",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "...Eh..?"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "holy fuck im rapping 2 sanses from undertales"
+		},
+		{
+			"speed": 0.18,
+			"portrait": "spongebob",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "..."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "spongebob",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "What?"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "shut the fuck up and play the song"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "spongebob",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Whatever you say kiddo, I guess."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "spong",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "penis"
+		}
+	]
+}

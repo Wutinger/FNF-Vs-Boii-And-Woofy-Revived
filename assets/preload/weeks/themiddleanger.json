@@ -1,0 +1,32 @@
+{
+	"songs": [
+		[
+			"old-anger",
+			"ab",
+			[
+				255,
+				0,
+				0
+			]
+		]
+	],
+	"hiddenUntilUnlocked": false,
+	"hideFreeplay": false,
+	"weekBackground": "",
+	"difficulties": "hard",
+	"weekCharacters": [
+		"boii",
+		"bf",
+		"gf"
+	],
+	"storyName": "anger",
+	"weekName": "old anger",
+	"freeplayColor": [
+		255,
+		0,
+		0
+	],
+	"hideStoryMode": false,
+	"weekBefore": "tutorial",
+	"startUnlocked": true
+}

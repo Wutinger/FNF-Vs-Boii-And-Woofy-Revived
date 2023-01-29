@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="zlex.png"><SubTexture name="zlex idle0000" x="0" y="0" width="142" height="142" frameX="0" frameY="0" frameWidth="142" frameHeight="142" />
+<SubTexture name="zlex idle0001" x="284" y="142" width="142" height="126" frameX="0" frameY="-16" frameWidth="142" frameHeight="142" />
+<SubTexture name="zlex idle0002" x="0" y="284" width="142" height="104" frameX="0" frameY="-38" frameWidth="142" frameHeight="142" />
+<SubTexture name="zlex down0000" x="142" y="0" width="142" height="142" frameX="0" frameY="0" frameWidth="142" frameHeight="142" />
+<SubTexture name="zlex left0000" x="0" y="142" width="142" height="142" frameX="0" frameY="0" frameWidth="142" frameHeight="142" />
+<SubTexture name="zlex right0000" x="142" y="142" width="142" height="142" frameX="0" frameY="0" frameWidth="142" frameHeight="142" />
+<SubTexture name="zlex up0000" x="284" y="0" width="142" height="142" frameX="0" frameY="0" frameWidth="142" frameHeight="142" />
+</TextureAtlas>
