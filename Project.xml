@@ -2,7 +2,7 @@
 <project>
 	<!-- _________________________ Application Settings _________________________ -->
 
-	<app title="Friday Night Funkin': Vs Boii And Woofy Revived V1" file="VSBoiiAndWoofyRevived" packageName="com.shadowmario.psychengine" package="com.shadowmario.psychengine" main="Main" version="1.0.0" company="Wuluig" />
+	<app title="Friday Night Funkin': VS Boii and Woofy Revived" file="VSBoiiAndWoofy" packageName="com.wutinger.vsboii" package="com.wutinger.vsboii" main="Main" version="1.0" company="Wutinger" />
 
 	<!--Switch Export with Unique ApplicationID and Icon-->
 	<set name="APP_ID" value="0x0100f6c013bbc000" />
@@ -44,8 +44,12 @@
 	<classpath name="source" />
 	
 	<!-- PSYCH ENGINE CUSTOMIZATION -->
-	<define name="LUA_ALLOWED" if="desktop" />
+	<define name="MODS_ALLOWED" if="desktop" />
+	
+	
 	<define name="VIDEOS_ALLOWED" if="web || windows" unless="32bits"/>
+	
+
 
 	<assets path="assets/preload" rename="assets" exclude="*.ogg" if="web"/>
 	<assets path="assets/preload" rename="assets" exclude="*.mp3"  unless="web"/>
@@ -187,8 +191,8 @@
 
 	<!--Place custom nodes like icons here (higher priority to override the HaxeFlixel icon)-->
 	
-	<icon path="art/icon16.png" size='16'/>
-	<icon path="art/icon32.png" size='32'/>
-	<icon path="art/icon64.png" size='64'/>
-	<icon path="art/iconOG.png" />
+	<icon path="art/VSBoii.png" size='16'/>
+	<icon path="art/VSBoii.png" size='32'/>
+	<icon path="art/VSBoii.png" size='64'/>
+	<icon path="art/VSBoii.png" />
 </project>
