@@ -190,8 +190,5 @@
 
 	<!--Place custom nodes like icons here (higher priority to override the HaxeFlixel icon)-->
 	
-	<icon path="art/VSBoii.ico" size='16'/>
-	<icon path="art/VSBoii.ico" size='32'/>
-	<icon path="art/VSBoii.ico" size='64'/>
-	<icon path="art/VSBoii.ico" />
+	<icon path="art/gameicon.png" size='128'/>
 </project>
