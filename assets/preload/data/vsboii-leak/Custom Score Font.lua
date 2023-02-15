@@ -1,15 +1,21 @@
 function onCreatePost()
-    local songNameNoSpace = songName
-    local difficultyNameUpper = string.upper(difficultyName:sub(1, 1)) .. difficultyName:sub(2, #difficultyName)
-    
-    makeLuaText("infoTxtKade", songNameNoSpace .. " " .. difficultyNameUpper .. " - Boii Engine BETA", 0, 30, 660)
-    setTextSize('infoTxtKade', 16)
-    setTextAlignment('infoTxtKade', 'LEFT')
-    setObjectOrder('infoTxtKade', 40)
-    setTextSize("scoreTxt", 17) --the last number controlls the size of the hud
-    setProperty('scoreTxt.y', 690)
-    changeNoteSkin('2d', 'player')
-	--changeNoteSkin('2d', 'opponent')
+	makeLuaText("scoretext", "skill issue", 1000, 140, 670)
+	setTextAlignment("scoretext", 'center')
+	setTextSize("scoretext", 20)
+	setTextFont("scoretext", "psych.ttf");
+	setTextFont("timeTxt", "psych.ttf");
+	addLuaText("scoretext")
+	setProperty("infoTxtKade.y", -500)
+	--for i=0,3 do
+    --    setPropertyFromGroup('opponentStrums', i, 'texture', '2d')
+	--	setPropertyFromGroup('playerStrums', i, 'texture', '2d')
+    --end
+	changeNoteSkin('2d', 'player')
+	changeNoteSkin('2d', 'opponent')
+end
+function onUpdatePost()
+	setProperty("scoreTxt.y", -100)
+	setTextString("scoretext", 'Score: '..score..' | Misses: '..misses..' | Rating: '..ratingName)
 end
 
 function changeNoteSkin(skin, player)

@@ -1,7 +1,0 @@
-
-This event will invert the arrows of the player
-
-Set value 1 to '1' to set the arrows back to
-their original spot
-
-Value 2 controls how fast the notes switch

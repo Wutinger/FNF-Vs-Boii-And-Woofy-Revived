@@ -1,5 +1,0 @@
-just place it down lol
-
-NOTE: The spatula animation lasts 9 seconds, do not 
-place another one within that time frame, it will 
-just interupt the animation.

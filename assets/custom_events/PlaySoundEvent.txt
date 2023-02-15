@@ -1,3 +1,0 @@
-value1: you custom sound
-
-value2: none

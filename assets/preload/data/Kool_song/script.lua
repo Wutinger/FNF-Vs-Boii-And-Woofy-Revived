@@ -31,7 +31,7 @@ function onCreatePost()
 
    makeLuaText("engineText", "Kool Song - Vs Boii V5 (Beta) On Psych Engine 6.2", 500, 30, 30)
    setTextAlignment("engineText", "left")
-   addLuaText("engineText")
+   --addLuaText("engineText")
    setProperty('message.y', 680)
-   setProperty('engineText.y', 660)
+   --setProperty('engineText.y', 660)
 end

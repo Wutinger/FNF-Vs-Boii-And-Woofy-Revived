@@ -1,4 +1,0 @@
-Flash an image on screen
-
-Value 1: Name of the image (mods/images)
-Value 2: Duration (in seconds)
