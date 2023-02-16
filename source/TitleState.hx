@@ -652,7 +652,7 @@ class TitleState extends MusicBeatState
 					addMoreText('RiverOaken', 15);
 					addMoreText('shubs', 15);
 					#else
-					addMoreText('present');
+					addMoreText('presents');
 					#end
 				// credTextShit.text += '\npresent...';
 				// credTextShit.addText();

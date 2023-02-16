@@ -190,5 +190,8 @@
 
 	<!--Place custom nodes like icons here (higher priority to override the HaxeFlixel icon)-->
 	
-	<icon path="art/gameicon.png" size='128'/>
+	<icon path="art/gameicon.png" size='16'/>
+	<icon path="art/gameicon.png" size='32'/>
+	<icon path="art/gameicon.png" size='64'/>
+	<icon path="art/gameicon.png" />
 </project>
