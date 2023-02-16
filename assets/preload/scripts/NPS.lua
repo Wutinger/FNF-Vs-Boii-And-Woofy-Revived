@@ -3,10 +3,6 @@ local MaxNps = 0;
 local npsRefresh1 = 0;
 local npsRefresh2 = 0;
 
-function onCreatePost()
-	setTextSize("scoreTxt", 12) --the last number controlls the size of the hud
-end
-
 function onSongStart()
 	runTimer(npsTimer1, 0.1, 0)
 	runTimer(npsTimer2, 0.5, 0)
