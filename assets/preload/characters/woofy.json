@@ -1,63 +1,63 @@
 {
 	"animations": [
 		{
+			"loop": true,
 			"offsets": [
 				0,
 				0
 			],
-			"loop": true,
-			"fps": 30,
 			"anim": "idle",
-			"indices": [],
-			"name": "woofy idle"
+			"fps": 30,
+			"name": "woofy idle",
+			"indices": []
 		},
 		{
+			"loop": true,
 			"offsets": [
 				0,
 				0
 			],
-			"loop": true,
-			"fps": 30,
 			"anim": "singLEFT",
-			"indices": [],
-			"name": "woofy left"
+			"fps": 30,
+			"name": "woofy left",
+			"indices": []
 		},
 		{
+			"loop": true,
 			"offsets": [
 				0,
 				0
 			],
-			"loop": true,
-			"fps": 30,
 			"anim": "singDOWN",
-			"indices": [],
-			"name": "woofy down"
+			"fps": 30,
+			"name": "woofy down",
+			"indices": []
 		},
 		{
+			"loop": true,
 			"offsets": [
 				0,
 				0
 			],
-			"loop": true,
-			"fps": 30,
 			"anim": "singUP",
-			"indices": [],
-			"name": "woofy up"
+			"fps": 30,
+			"name": "woofy up",
+			"indices": []
 		},
 		{
+			"loop": true,
 			"offsets": [
 				0,
 				0
 			],
-			"loop": true,
-			"fps": 30,
 			"anim": "singRIGHT",
-			"indices": [],
-			"name": "woofy right"
+			"fps": 30,
+			"name": "woofy right",
+			"indices": []
 		}
 	],
 	"no_antialiasing": false,
-	"image": "characters/woofy",
+	"image": "characters/Woofy",
 	"position": [
 		-370,
 		210
@@ -65,9 +65,9 @@
 	"healthicon": "woofy",
 	"flip_x": false,
 	"healthbar_colors": [
-		161,
-		161,
-		161
+		224,
+		152,
+		113
 	],
 	"camera_position": [
 		310,
