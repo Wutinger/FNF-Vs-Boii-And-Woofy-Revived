@@ -1,63 +1,63 @@
 {
 	"animations": [
 		{
-			"loop": true,
 			"offsets": [
 				0,
 				0
 			],
+			"loop": true,
+			"fps": 30,
 			"anim": "idle",
-			"fps": 30,
-			"name": "woofy idle",
-			"indices": []
+			"indices": [],
+			"name": "woofy idle"
 		},
 		{
-			"loop": true,
 			"offsets": [
 				0,
 				0
 			],
+			"loop": true,
+			"fps": 30,
 			"anim": "singLEFT",
-			"fps": 30,
-			"name": "woofy left",
-			"indices": []
+			"indices": [],
+			"name": "woofy left"
 		},
 		{
-			"loop": true,
 			"offsets": [
 				0,
 				0
 			],
+			"loop": true,
+			"fps": 30,
 			"anim": "singDOWN",
-			"fps": 30,
-			"name": "woofy down",
-			"indices": []
+			"indices": [],
+			"name": "woofy down"
 		},
 		{
-			"loop": true,
 			"offsets": [
 				0,
 				0
 			],
+			"loop": true,
+			"fps": 30,
 			"anim": "singUP",
-			"fps": 30,
-			"name": "woofy up",
-			"indices": []
+			"indices": [],
+			"name": "woofy up"
 		},
 		{
-			"loop": true,
 			"offsets": [
 				0,
 				0
 			],
-			"anim": "singRIGHT",
+			"loop": true,
 			"fps": 30,
-			"name": "woofy right",
-			"indices": []
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "woofy right"
 		}
 	],
 	"no_antialiasing": false,
-	"image": "characters/Woofy",
+	"image": "characters/woofy",
 	"position": [
 		-370,
 		210
