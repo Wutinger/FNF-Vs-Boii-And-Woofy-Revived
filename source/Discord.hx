@@ -1,5 +1,4 @@
 package;
-
 import Sys.sleep;
 import discord_rpc.DiscordRpc;
 

@@ -23,7 +23,7 @@ import flixel.input.keyboard.FlxKey;
 
 using StringTools;
 
-class MainMenuState extends MusicBeatState
+class FreeplayThingState extends MusicBeatState
 {
 	public static var psychEngineVersion:String = '1.0.0'; //This is also used for Discord RPC
 	public static var curSelected:Int = 0;
@@ -33,11 +33,10 @@ class MainMenuState extends MusicBeatState
 	private var camAchievement:FlxCamera;
 	
 	var optionShit:Array<String> = [
-		'story_mode',
-		'freeplay',
-		'credits',
-		'options',
-		'test'
+		'story',
+		'extra',
+		'covers',
+		'old'
 	];
 
 	var magenta:FlxSprite;
@@ -234,18 +233,18 @@ class MainMenuState extends MusicBeatState
 
 								switch (daChoice)
 								{
-									case 'story_mode':
-										MusicBeatState.switchState(new StoryMenuState());
-									case 'freeplay':
-										MusicBeatState.switchState(new FreeplayThingState());
+									case 'story':
+										MusicBeatState.switchState(new FreeplayState());
+									case 'extra':
+										MusicBeatState.switchState(new FreeplayState());
 									#if MODS_ALLOWED
 									case 'mods':
 										MusicBeatState.switchState(new ModsMenuState());
 									#end
-									case 'awards':
-										MusicBeatState.switchState(new AchievementsMenuState());
-									case 'credits':
-										MusicBeatState.switchState(new CreditsState());
+									case 'covers':
+										MusicBeatState.switchState(new FreeplayState());
+									case 'old':
+										MusicBeatState.switchState(new FreeplayState());
 									case 'options':
 										LoadingState.loadAndSwitchState(new options.OptionsState());
 								}
