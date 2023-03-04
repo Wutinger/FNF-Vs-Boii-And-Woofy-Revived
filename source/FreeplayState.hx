@@ -324,7 +324,7 @@ class FreeplayState extends MusicBeatState
 				colorTween.cancel();
 			}
 			FlxG.sound.play(Paths.sound('cancelMenu'));
-			MusicBeatState.switchState(new FreeplayThingState());
+			MusicBeatState.switchState(new MainMenuState());
 		}
 
 		if(ctrl)
@@ -358,9 +358,9 @@ class FreeplayState extends MusicBeatState
 			}
 		}
 
-		else if (accepted)
-		{
-			persistentUpdate = false;
+		else if (accepted && songs[curSelected].songName != "- main songs -")
+			{
+				persistentUpdate = false;
 			var songLowercase:String = Paths.formatToSongPath(songs[curSelected].songName);
 			var poop:String = Highscore.formatSong(songLowercase, curDifficulty);
 			/*#if MODS_ALLOWED
@@ -392,7 +392,7 @@ class FreeplayState extends MusicBeatState
 			FlxG.sound.music.volume = 0;
 					
 			destroyFreeplayVocals();
-		}
+			}
 		else if(controls.RESET)
 		{
 			persistentUpdate = false;

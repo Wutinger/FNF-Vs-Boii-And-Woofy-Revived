@@ -36,8 +36,7 @@ class MainMenuState extends MusicBeatState
 		'story_mode',
 		'freeplay',
 		'credits',
-		'options',
-		'test'
+		'options'
 	];
 
 	var magenta:FlxSprite;
@@ -127,16 +126,6 @@ class MainMenuState extends MusicBeatState
 		}
 
 		FlxG.camera.follow(camFollowPos, null, 1);
-
-		var versionShit:FlxText = new FlxText(12, FlxG.height - 44, 0, "VS Boii And Woofy Revived v" + psychEngineVersion, 12);
-		versionShit.scrollFactor.set();
-		versionShit.setFormat(Paths.font("vcr.ttf"), 16, FlxColor.WHITE, LEFT, FlxTextBorderStyle.OUTLINE, FlxColor.BLACK);
-		add(versionShit);
-		var versionShit:FlxText = new FlxText(12, FlxG.height - 24, 0, "Boii Engine v" + Application.current.meta.get('version') + " (Psych Engine v6.2)", 12);
-		versionShit.scrollFactor.set();
-		versionShit.setFormat(Paths.font("vcr.ttf"), 16, FlxColor.WHITE, LEFT, FlxTextBorderStyle.OUTLINE, FlxColor.BLACK);
-		//rankText.setFormat(Paths.font("vcr.ttf"), 32);
-		add(versionShit);
 
 		// NG.core.calls.event.logEvent('swag').send();
 
@@ -237,7 +226,7 @@ class MainMenuState extends MusicBeatState
 									case 'story_mode':
 										MusicBeatState.switchState(new StoryMenuState());
 									case 'freeplay':
-										MusicBeatState.switchState(new FreeplayThingState());
+										MusicBeatState.switchState(new FreeplayState());
 									#if MODS_ALLOWED
 									case 'mods':
 										MusicBeatState.switchState(new ModsMenuState());
