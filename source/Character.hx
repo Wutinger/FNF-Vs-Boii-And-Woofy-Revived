@@ -24,7 +24,7 @@ typedef CharacterFile = {
 	var animations:Array<AnimArray>;
 	var image:String;
 	var scale:Float;
-	var sing_duration:Float;
+	var sing_duration:Float; 
 	var healthicon:String;
 
 	var position:Array<Float>;

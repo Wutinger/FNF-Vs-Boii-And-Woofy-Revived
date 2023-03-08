@@ -332,7 +332,7 @@ class FreeplayState extends MusicBeatState
 			persistentUpdate = false;
 			openSubState(new GameplayChangersSubstate());
 		}
-		else if(space)
+		else if(space && songs[curSelected].songName != "- main songs -" && songs[curSelected].songName != "- extra songs -" && songs[curSelected].songName != "- covers -" && songs[curSelected].songName != "-_old_songs_-")
 		{
 			if(instPlaying != curSelected)
 			{
@@ -358,7 +358,7 @@ class FreeplayState extends MusicBeatState
 			}
 		}
 
-		else if (accepted && songs[curSelected].songName != "- main songs -")
+		else if (accepted && songs[curSelected].songName != "- main songs -" && songs[curSelected].songName != "- extra songs -" && songs[curSelected].songName != "- covers -" && songs[curSelected].songName != "-_old_songs_-")
 			{
 				persistentUpdate = false;
 			var songLowercase:String = Paths.formatToSongPath(songs[curSelected].songName);

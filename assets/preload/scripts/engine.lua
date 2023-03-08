@@ -8,8 +8,8 @@ function onCreatePost()
     setObjectOrder('infoTxtKade', 40)
     setTextSize("scoreTxt", 17) --the last number controlls the size of the hud
     setProperty('scoreTxt.y', 690)
-    changeNoteSkin('2d', 'player')
-	--changeNoteSkin('2d', 'opponent')
+    --changeNoteSkin('2d', 'player')
+	changeNoteSkin('3d', 'opponent')
 end
 
 function changeNoteSkin(skin, player)
