@@ -10,6 +10,9 @@ function onCreatePost()
     setProperty('scoreTxt.y', 690)
     --changeNoteSkin('2d', 'player')
 	changeNoteSkin('3d', 'opponent')
+    setProperty('timeTxt.y', 5.5)
+    setProperty('timeBarBG.y', 19)
+    setProperty('timeBar.y', 19)
 end
 
 function changeNoteSkin(skin, player)

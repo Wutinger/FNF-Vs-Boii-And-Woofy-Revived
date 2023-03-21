@@ -1,60 +1,68 @@
 {
 	"dialogue": [
 		{
-			"expression": "talk",
-			"text": "hello boyfriend fnf",
-			"boxState": "normal",
 			"sound": "",
 			"speed": 0.05,
-			"portrait": "boii"
+			"portrait": "boii",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Hello boyfriend, do you want to have a rap battle?"
 		},
 		{
-			"expression": "talk",
-			"text": "where am i ???",
-			"boxState": "normal",
 			"sound": "",
 			"speed": 0.05,
-			"portrait": "bf"
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "shocked",
+			"text": "boop?"
 		},
 		{
-			"expression": "talk",
-			"text": "i want to rapbattle you",
-			"boxState": "normal",
 			"sound": "",
 			"speed": 0.05,
-			"portrait": "boii"
+			"portrait": "gf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "he's trying to ask how did we get here"
 		},
 		{
-			"expression": "talk",
-			"text": "h jksdhbghfjkasdgcvkarmsgnfhkmasdrg nhar ndfjohdrv hjv drbahjkgvb dhjrgbedrjhgbdryuoigbvjrgb yurbdgyuierjdgboyusgb fvryuiosdgb fyuidrbgfiurybgfauivrfgvuirayguiadygiuvdygiadyguidygbodygvbuorebygvuiodybgybrruiosdybrgvuirguirosyvuygiurybgiuoareygvuiradytjihogfgdjksdfjkgdfkshuipsdfhguiadrghdruihgruidhgirudhgirudhguidrhgdhgirrdgrdgdrgrdgrdgdrgrdgrdgrdgrdnmgbhjergvrhjgrhjdgrhjdghjgrhjdghjghj",
-			"boxState": "normal",
-			"sound": "",
-			"speed": 0.001,
-			"portrait": "bf"
-		},
-		{
-			"expression": "talk",
-			"text": "what the actual frick",
-			"boxState": "normal",
 			"sound": "",
 			"speed": 0.05,
-			"portrait": "gf"
+			"portrait": "boii",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "oh, I transported you to this world"
 		},
 		{
-			"expression": "talk",
-			"text": "Let's start boyfriend fnf",
-			"boxState": "normal",
 			"sound": "",
 			"speed": 0.05,
-			"portrait": "boii"
+			"portrait": "bf",
+			"boxState": "angry",
+			"expression": "excited",
+			"text": "boop bap"
 		},
 		{
-			"expression": "talk",
-			"text": "f in the chat !@#%^!$#%^&!$#%^!@#$%^!@&#$@^!#%!@&#!@&#%!@#^#&*@!^#*&@^#a",
-			"boxState": "normal",
 			"sound": "",
-			"speed": 0.01,
-			"portrait": "bf"
+			"speed": 0.05,
+			"portrait": "boii",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "what?"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "gf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "He's trying to say to start the rapbattle"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "boii",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Let's Start!"
 		}
 	]
 }

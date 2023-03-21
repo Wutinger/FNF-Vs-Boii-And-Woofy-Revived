@@ -193,10 +193,10 @@ class FreeplayState extends MusicBeatState
 		add(textBG);
 
 		#if PRELOAD_ALL
-		var leText:String = "Press CTRL To Open The Gameplay Changers Menu Or Press R To reset The Song's Score and Accuracy.";
+		var leText:String = "Press SPACE to Listen To This Song, Press CTRL To Open The Gameplay Changers Menu Or Press R To reset The Song's Score and Accuracy.";
 		var size:Int = 16;
 		#else
-		var leText:String = "Press CTRL To Open The Gameplay Changers Menu Or Press R To reset The Song's Score and Accuracy.";
+		var leText:String = "Press SPACE to Listen To This Song, Press CTRL To Open The Gameplay Changers Menu Or Press R To reset The Song's Score and Accuracy.";
 		var size:Int = 18;
 		#end
 		var text:FlxText = new FlxText(textBG.x, textBG.y + 4, FlxG.width, leText, size);

@@ -35,7 +35,7 @@ function onCreatePost()
     setTextAlignment('scoreTxtKade', 'LEFT')
     setObjectOrder('scoreTxtKade', 40)
 
-    makeLuaText("infoTxtKade", songNameNoSpace .. " " .. difficultyNameUpper .. " - PSYCH ENGINE CUSTOM BUILD - FNF", 0, 10, 690)
+    makeLuaText("infoTxtKade", songNameNoSpace .. " " .. difficultyNameUpper .. " - PE CUSTOM BUILD - FNF", 0, 10, 690)
     setTextSize('infoTxtKade', 16)
     setTextAlignment('infoTxtKade', 'LEFT')
     setTextFont("infoTxtKade", "kade.ttf")
@@ -450,9 +450,9 @@ function onUpdate()
             setTextString("scoreTxtKade", "BOTPLAY - NPS: " .. nps .. " | Score:" .. bscore)
         else
             if hits > 0 then
-                setTextString("scoreTxtKade", "NPS: " .. nps .. " | Score:" .. score .. " | Combo Breaks:" .. misses .. " | Accuracy:" .. math.floor(acc * 100) / 100 .. "% | (" .. fctext .. ") " .. calculatedtype)
+                setTextString("scoreTxtKade", "Score:" .. score .. " | Combo Breaks:" .. misses .. " | Accuracy:" .. math.floor(acc * 100) / 100 .. "% | (" .. fctext .. ") " .. calculatedtype)
             else
-                setTextString("scoreTxtKade", "NPS: 0 | Score:0 | Combo Breaks:0 | Accuracy:0% | N/A")
+                setTextString("scoreTxtKade", "Score:0 | Combo Breaks:0 | Accuracy:0% | N/A")
             end
         end
     end
@@ -483,7 +483,7 @@ end
 
 function onDestroy()
     songended = true
-    setPropertyFromClass('lime.app.Application', 'current.window.title', "Friday Night Funkin': VS Boii and Woofy")
+    setPropertyFromClass('lime.app.Application', 'current.window.title', "Friday Night Funkin': VS Boii and Woofy Revived")
 end
 
 function colorFromRating(diff)

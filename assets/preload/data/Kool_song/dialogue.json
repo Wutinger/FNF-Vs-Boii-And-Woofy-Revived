@@ -1,100 +1,52 @@
 {
 	"dialogue": [
 		{
-			"expression": "talk",
-			"text": "you are very good boyfriend fnf",
-			"boxState": "normal",
 			"sound": "",
 			"speed": 0.05,
-			"portrait": "boii"
+			"portrait": "boii",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "yoooo, that was good!"
 		},
 		{
-			"expression": "talk",
-			"text": "you very bad",
-			"boxState": "normal",
 			"sound": "",
 			"speed": 0.05,
-			"portrait": "bf"
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "yea, but you weren't"
 		},
 		{
-			"expression": "excited",
-			"text": "SHUT UP",
+			"sound": "",
+			"speed": 0.01,
+			"portrait": "bf",
 			"boxState": "angry",
+			"expression": "talk",
+			"text": "shut up!"
+		},
+		{
 			"sound": "",
 			"speed": 0.05,
-			"portrait": "boii"
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "no"
 		},
 		{
-			"expression": "talk",
-			"text": "fgb jkdfgvh nukwefrhgvkehsvhjgb drtjghjdrgjdrghjrdjhdrjgfrhesfesfesfesf\\nsfsefesfesfsefesfesfesfsefesfbhjsdfgsdgfsfgahsefghjsgafhjasegfhjeksgafjha\\nfaseghjfyuehjasgfhjseagfuiseagfeyusafuyisegfugaseuyfgeyusagfyusegfyuaesgfyusgaifygyeasfyueg\\nasuiefhesuioafgiusfhyuiasyhuisyafuiyesyafuiasyfuieasyf\\njsehfjsekahfjsgfeksjhfjkelsahfjkleashfjklasehfjkeashfjkashfjheajkslfe\\nejsfhjesfjsefhehfejkshfehfsehfjkse\\n\\nsefesfesfsfesfse\\nseffsefseffsef\\nsefsef\\nsefsefsefesfsfesfesfesfesfesfsefesf",
-			"boxState": "normal",
-			"sound": "",
-			"speed": 0.005,
-			"portrait": "bf"
-		},
-		{
-			"expression": "talk",
-			"text": "Boyfriend is a young, light-skinned man with spiky cyan hair. He wears a white T-shirt with a red prohibition sign, baggy blue pants, red sneakers with white shoelaces and a backward red cap with a dark blue brim. He holds a microphone in his right hand while keeping his left hand in his pocket.",
-			"boxState": "normal",
-			"sound": "",
-			"speed": 0.00500000000000001,
-			"portrait": "bf"
-		},
-		{
-			"expression": "talk",
-			"text": "speak english",
-			"boxState": "normal",
 			"sound": "",
 			"speed": 0.05,
-			"portrait": "boii"
-		},
-		{
+			"portrait": "boii",
+			"boxState": "normal",
 			"expression": "talk",
-			"text": "According to PhantomArcade in a Tweet, one of the core inspirations for Friday Night Funkin' is the 1981 anime adaptation of the manga Urusei Yatsura. Boyfriend is based on the series' main character Ataru Moroboshi, who has a powerful girlfriend named Lum Invader, whom Girlfriend is based on in turn.",
-			"boxState": "normal",
-			"sound": "",
-			"speed": 0.00500000000000001,
-			"portrait": "bf"
+			"text": "let's do another one"
 		},
 		{
-			"expression": "excited",
-			"text": "SHUT UP",
-			"boxState": "normal",
 			"sound": "",
 			"speed": 0.05,
-			"portrait": "boii"
-		},
-		{
-			"expression": "talk",
-			"text": "FRIDAY NIGHT FUNKIN' WIKI\rWelcome to the Friday Night Funkipedia! Before getting started, please make sure to carefully read through the Rules and Style Manual, as violating them may result in a block. Thank you!\r\rIf you have any questions or inquiries, please ask our wiki staff.\r\rFriday Night Funkin' Wiki\rFriday Night Funkin' Wiki\rEXPLORE\rFUNKIPEDIA\rCOMMUNITY\rTHE GAME\rWIKI STAFF\r FANDOM\rGAMES\rANIME\rMOVIES\rTV\rVIDEO\rWIKIS\rSTART A WIKI\rFriday Night Funkin' Wiki\rFriday Night Funkipedia\r92\rPAGES\rEXPLORE\rFUNKIPEDIA\rCOMMUNITY\rTHE GAME\rWIKI STAFF\r\r\rin: Characters, Main Characters, Playable Characters, and 5 more\rEnglish\rBoyfriend\r1K\rVIEW SOURCE\rBoyfriend\rNormal\rWeek 4\rWeek 5\rWeek 6\rStress\rNormal\rAliases\rBF\rUgly worm (by Senpai)\rLittle dude (by Tankman)\rLittle shit (by Tankman)\rBaggy-pantsed fuck/punk (by Tankman)\r\rRelatives\rRitz (adoptive brother)\rUnnamed parents\rGirlfriend (girlfriend)\rPico (ex-boyfriend)\r\rOccupation\rSinger/rapper\rCollege dropout\r\rBiographical Information\rAge\r19-20[1]\rStatus\rAlive\rPhysical Description\rSpecies\rHuman\rGender\rMale\rEye color\rBlack\rHair color\rCyan\rAppearances\rCreated by\rPhantomArcade\revilsk8r\r\rVoiced by\rPhantomArcade (sound effects)\rKawai Sprite (singing voice)\r\rAppears in\rFriday Night Funkin'\rSpooky Month - Unwanted Guest (cameo)\rPico's School: Love Conquers All (cameo)\rThe Binding of Isaac: Four Souls Requiem (cameo)\rMADNESS: Project Nexus (easter egg)\rPICO VS BEAR DX\rContract Rush DX (upcoming; cameo)\r\rDebut\rFriday Night Funkin'\rCharacter Icons\rNormal\rWeek 6\rOld/Alt\rUnused 1\rUnused 2\rNormal\r“Beep bo bop”\r― Boyfriend, Friday Night Funkin'\rBoyfriend is the main protagonist of Friday Night Funkin'. He is on a mission to gain approval to date his girlfriend, but must sing off against her evil ex-rockstar father, Daddy Dearest, as well as the many other characters that stand in his way. He stars in every song and week, and has an unused track of his own, Test.\r\r\rContents\r1 Appearance\r2 Personality\r3 Trivia\r4 Gallery\r5 Notes\rAppearance\rBoyfriend is a young, light-skinned man with spiky cyan hair. He wears a white T-shirt with a red prohibition sign, baggy blue pants, red sneakers with white shoelaces and a backward red cap with a dark blue brim. He holds a microphone in his right hand while keeping his left hand in his pocket.\r\rDuring Week 4, his hair gets blown around as a result of standing on a moving car.\r\rDuring Week 5, he wears a red parka, light blue pants and brown snow boots.\r\rDuring Week 6, his regular appearance is rendered in a 32-bit style.\r\rDuring the last track of Week 7, he holds Girlfriend up by the waist with his left hand.\r\rPersonality\rBoyfriend is portrayed as a young, overzealous rapper with a love for music, donuts and his girlfriend, Girlfriend. He loves to sing and show off his skills, resulting in his confident and cocky character. He is very determined and persistent on reaching his goals and won't let anyone get in the way of his success, even when threatened with death. Boyfriend is implied to be clingy as he is never seen without Girlfriend by his side.\r\rBoyfriend has been diagnosed with ADHD and ASD; sometimes, he may choose not to communicate conventionally with strangers and will simply beep at them instead of speaking.\r\rTrivia\rAccording to PhantomArcade in a Tweet, one of the core inspirations for Friday Night Funkin' is the 1981 anime adaptation of the manga Urusei Yatsura. Boyfriend is based on the series' main character Ataru Moroboshi, who has a powerful girlfriend named Lum Invader, whom Girlfriend is based on in turn.\rninjamuffin99, PhantomArcade and Kawai Sprite have all stated that Boyfriend's name is simply Boyfriend.\rAn official T-shirt created in collaboration with PKettles and Shark Robot refers to him as Boyfriend.\rAdditionally, there are currently two opening lines in the intro sequence that de-confirms two names which Boyfriend has been commonly referred to as: \"His name isn't Evan, silly TikTok\" and \"His name isn't Keith, dumb eggy lol.\"\rninjamuffin99 has made a TikTok pleading with people to stop calling him Keith, saying, \"His name, his name isn't Keith, it's not Keith. I'm, I'm sick of seeing everyone calling him Keith.\" He has also confirmed his name to simply be Boyfriend on Reddit.\rThe lyrics \"boil 'lil boyfriend,\" in Winter Horrorland also refer to Boyfriend by name.\rBoyfriend is his only canonical and official name. However, ninjamuffin99 has intentionally confused the Friday Night Funkin' community by spouting out random names on his Twitter and TikTok accounts. There have been several attempts to figure out his name (names in bold have been de-confirmed), including:\rKeith (on Twitter, has been stated several times to not be his name).\rEvan (on TikTok, based on misheard lyrics from the song Monster).\rLuis (on Twitter, named after Luis).\rCam (on Twitter, based on ninjamuffin99's real name, Cameron. It was commonly used after becoming the first result when searching for Boyfriend's name on Google).\rJack (on TikTok, not de-confirmed so far).\rBoyfriend originally had hot pink hair instead of cyan blue, revealed in early concept sketches of Boyfriend released by PhantomArcade.\rAdditionally, his shoelaces were originally blue instead of white.\rBoyfriend has the most unused animations out of any character in the game.\rWhile Boyfriend's singing voice is provided by Kawai Sprite, the game's composer, Boyfriend's groan after losing a battle is provided by PhantomArcade, the game's main artist and animator.\rPhantomArcade also confirmed that he will be voicing more sound effects for Boyfriend.\rBoyfriend makes a cameo appearance in Sr Pelo's animation \"Spooky Month - Unwanted Guest\" as a background plushie. The \"Spooky Month\" series is also where Skid and Pump originate from.\rAt the end of most of his turns in Bopeebo and later his first two turns in Tutorial after the 0.2.8 update, Boyfriend will briefly strike a V-sign pose. In the Ludum Dare prototype, this sprite was originally used to fix a bug where Boyfriend would be stuck with the last animation he was in. Although the bug was fixed in the Newgrounds release of the game, the animation was still kept in.\rBoyfriend has a Week 4, Week 5 and Week 6 variant of his V-sign pose, although they all went unused.\rBoyfriend's original icons in the Ludum Dare prototype and older versions of the Newgrounds demo consisted of a small yellow circle with a yellow cap and blue eyes. In the Week 4 update, his icons were replaced with a blue mouthless face which more closely resembles Boyfriend. Pressing \"9\" while on any track will cause Boyfriend's new icons to be replaced with his old ones again.\rninjamuffin99 and PhantomArcade has revealed many facts about Boyfriend on different forms of social media, mostly Reddit and Twitter:\rThe reason why Boyfriend and Girlfriend began dating is not because of their names, but because they thought that they were cute.\rBoyfriend knows a lot of fingerboard tricks, and it's one of the reasons he won Girlfriend's heart.\rBoyfriend's favorite Newgrounds game is Newgrounds Rumble.\rBoyfriend loves pepperoni pizza from Domino's.\rBoyfriend loves donuts the most out of any character in the game.\rBoyfriend likes Brisk iced tea and milk.\rBoyfriend likes to listen to Kanye West music.\rBoyfriend's beeping noises are not a language, but just random sounds he makes to avoid talking to people.\rBoyfriend's favorite animal is a Hominid, not realizing that a Hominid isn't an actual animal.\rNot much is known about Boyfriend's parents. The only information known about them is that they work in accounting.\rBoyfriend's parents got him into a public college, paying the entry fees only for him to stop showing up. This subsequently led to him dropping out. During his time at the college, he preferred to read comics all day in the library instead.\rBoyfriend's hair is not dyed and is naturally cyan.\rOne of Tankman's Game Over quotes pokes fun of this fact, as he questions (and mocks) the nature of his hair color, stating, \"I guess your shitty blue hair dye got in your eyes. It's okay, it happens to all of us.\"\rPhantomArcade stated that \"Tankman claims his hair is dyed to be a condescending asshole, in reality it's naturally blue.\"\rBoyfriend appears very small for his age because he is drawn in a chibi style, similar to Girlfriend and Pico.\rIn the Game Over screen, he is revealed to be slouching his knees somewhat, adding to his small appearance.\rEven when he isn't slouching and when Girlfriend isn't wearing her heels, she is still taller than him.\rThough his chibi-styled appearance may suggest otherwise, Boyfriend is a powerful and capable fighter.\rA Reddit comment by PhantomArcade indicates that Boyfriend and Girlfriend appear very short as a symbol of their innocence.\rBoyfriend is so reckless and overconfident that he's essentially fearless.\rPhantomArcade also clarifies that, just like Girlfriend, Boyfriend is far too dense to be afraid of many things. This is shown during Monster, where he does not appear afraid despite Monster's constant threatening toward him and Girlfriend.\rHowever, like Girlfriend, Boyfriend appears to be afraid of lightning, as shown in Week 2. Whenever lightning strikes, Boyfriend will briefly wince and shudder.\rBoyfriend is neurodivergent, as he has ADHD and is autistic, confirmed by PhantomArcade during a livestream.\rRitz The Rat is confirmed to be confirmed to be Boyfriend's adoptive brother, described by ninjamuffin99 as a Stuart Little situation.\rA popular headcanon within the FNF community was that Pico is Boyfriend's ex. This headcanon gathered so much traction that Tom Fulp, the creator of Pico, Tweeted jokingly that \"this is official Pico 2 canon,\" leading people to believe that it was true. ninjamuffin99 initially said that this was a joke, but later changed his mind and confirmed it was canon.\rninjamuffin99 and PhantomArcade have confirmed that Pico and Boyfriend are exes on Reddit, Twitter and Twitch several times.\rninjamuffin99 has also confirmed on Twitter that Boyfriend is bisexual.\rOn the 1st of April, 2021, Tom Fulp updated the original Pico's School game for April Fool's day, ending with Pico revealing to Cassandra that he and Boyfriend are a couple and everyone at his school accepts them. The day after, this version would be released as a separate game set in an alternate timeline called \"Pico's School: Love Conquers All.\"\rIt has been noted that Boyfriend's attire, from his red prohibition sign T-shirt, blue pants, and red and white shoes, is strikingly similar to that of a character from a 2009 Flash animation by Newgrounds user Zarla around the 1:52 mark.\rIn a Reddit AMA, PhantomArcade confirmed that the similarities are purely coincidental.\rBoyfriend's design was possibly inspired by the Ninjala character Kappei.\rBoyfriend has an in-game track of his own, Test, though it is technically unused. In this track, Boyfriend faces off against the Week 6 version of himself.\rGallery\rView Boyfriend's full gallery here.\r\rFUNNY RAPPING\rBoyfriend's singing animations.\rDO BETTER\rBoyfriend's miss animations.\rBF PEACE ANIMATED\rBoyfriend's V-sign pose used during the Tutorial and Bopeebo.\rGrrrr..\rBoyfriend is afraid of lightning, as seen during Week 2.\rBLUE BALLS HAHAHAHAHAHAHAHA please laugh\rBoyfriend's appearance on the Game Over screen.\rBF BREAK\rBoyfriend's Game Over animation.\rBF Dead Loop\rBoyfriend's full Game Over animation.\rBF RETRY\rBoyfriend's retry animation.\rPrepare yourself\rBoyfriend preparing to attack.\rMic Throw Animated\rBoyfriend's unused attack animation.\rBF-throws-mic\rBoyfriend's full attack animation.\rDodge\rBoyfriend's unused dodge animation.\rV-signposeweek4\rBoyfriend's unused V-sign pose for Week 4.\rBfChristmasIdle\rBoyfriend as he appears in Week 5.\rBfchristmas\rBoyfriend's Week 5 singing animations.\rBadplayerbfchristmas\rBoyfriend's Week 5 miss poses.\rBoyfriendChristmasVSign\rBoyfriend's unused V-sign pose for Week 5.\rBF PIXEL SING\rBoyfriend's singing animations in Week 6.\rBF PIXEL MISS\rBoyfriend's miss animations in Week 6.\rGame Over (Week 6)\rBoyfriend's appearance on the Game Over screen during Week 6.\rBF PIXEL BREAK\rBoyfriend's Game Over animation in Week 6.\rBF PIXEL DED\rBoyfriend's full Game Over animation in Week 6.\rBF PIXEL RETRY\rBoyfriend's retry animation in Week 6.\rBfPortrait\rBoyfriend's character portrait used during Week 6.\rBfandGfnotes\rBoyfriend's singing animations while holding Girlfriend during Stress.\rBfandGfmiss\rBoyfriend's miss animations while holding Girlfriend during Stress.\rWeek 7 Death Scene\rBoyfriend and Girlfriend's appearances on the Game Over screen for Stress.\rDed couple retry\rBoyfriend and Girlfriend's retry pose in Stress.\rBFHiddenGameOverScreen\rBoyfriend as he appears on the Gitaroo Man Easter egg pause menu/Game Over screen, drawn by Wandaboy.\rBoyfriendMiss\rBoyfriend's miss sprites.\rThrowmike\rUnused frames of Boyfriend throwing his microphone.\rBfChristmasMiss\rBoyfriend's miss sprites for Week 5.\rBoyfriend 16bit Icon\rThe Friday Night Funkin' avatar featuring Boyfriend in a pixel style.\rBoyfriend FNF Icon\rThe Friday Night Funkin' application icon featuring Boyfriend.\rNotes\r In a Tweet made in December 2020 by PhantomArcade, Boyfriend and Girlfriend were stated to be 19 years old. In a Tweet made in February 2021 by PhantomArcade, the two characters were stated to be 20 years old. It is unclear if PhantomArcade was confused in the later Tweet, if the two being 19 years old was retconned, or if Boyfriend and Girlfriend have no specific age and only a range.\rCharacters\rCategories\rLanguages\rCommunity content is available under CC-BY-SA unless otherwise noted.\rPoll\rThoughts on the ERECT remixes?\rAbsolute bangers\r390\rNot getting tired of them\r41\rThey went so hard\r25\rWish it lasted longer\r15\rUgh\r47\rI am now 100% fully ERECT\r109\rCancel my vote\rThe poll was created at 9:29:27 AM on 1/8/2022, and so far 627 people voted\rNew Images\r2,720\rimages on this wiki\rUPLOAD NEW IMAGE\rSee all images...\rPopular Pages\r\rBoyfriend\r\rGirlfriend\r\rCharacters\r\rPico\r\rTankman\rEXPLORE PROPERTIES\rFandom\rD&D Beyond\rCortex RPG\rMuthead\rFuthead\rFanatical\rFOLLOW US\rOVERVIEW\rWhat is Fandom?\rAbout\rCareers\rPress\rContact\rTerms of Use\rPrivacy Policy\rGlobal Sitemap\rLocal Sitemap\rCOMMUNITY\rCommunity Central\rSupport\rHelp\rADVERTISE\rMedia Kit\rFandomatic\rContact\rFANDOM APPS\rTake your favorite fandoms with you and never miss a beat.\rFriday Night Funkin' Wiki is a FANDOM Games Community.\rVIEW MOBILE SITE\rFollow on IG\rNewsletter\rJoin Fan Lab\rBingebot: Find a new show to watch in 30 seconds",
+			"portrait": "bf",
 			"boxState": "normal",
-			"sound": "",
-			"speed": 0,
-			"portrait": "bf"
-		},
-		{
 			"expression": "talk",
-			"text": "did u just ctrl a ctrl c ctrl v funkipedia",
-			"boxState": "normal",
-			"sound": "",
-			"speed": 0.05,
-			"portrait": "boii"
-		},
-		{
-			"expression": "talk",
-			"text": "yes",
-			"boxState": "normal",
-			"sound": "",
-			"speed": 0.05,
-			"portrait": "bf"
-		},
-		{
-			"expression": "talk",
-			"text": "lets play ",
-			"boxState": "normal",
-			"sound": "",
-			"speed": 0.05,
-			"portrait": "bf"
+			"text": "ok"
 		}
 	]
 }

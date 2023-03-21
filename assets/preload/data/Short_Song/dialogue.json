@@ -1,36 +1,44 @@
 {
 	"dialogue": [
 		{
-			"expression": "talk",
-			"text": "fsayhruiwerhbuiewgrvyuvftdxcfwadrtweftybcftriwvjmropemtjk\\nefsefsefsef\\nsefesfeses\\nfsefsef\\nesfe\\nfse\\nfesyawa\\nd\\nad\\nawd\\nawd\\nwad\\nawd\\nwd\\nwa\\ndaw\\ndw\\nad\\nwad\\nwa\\nd\\ndawd\\nw\\nd\\ndwa\\ndaw\\nd\\naw\\nda\\nd\\naw\\ndaw\\ndaw\\nd",
-			"boxState": "normal",
-			"sound": "",
-			"speed": 0.005,
-			"portrait": "boii"
-		},
-		{
-			"expression": "talk",
-			"text": "ihadastroke",
-			"boxState": "normal",
 			"sound": "",
 			"speed": 0.05,
-			"portrait": "bf"
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "oOoOooOO are you gonna become angry?"
 		},
 		{
-			"expression": "talk",
-			"text": "howyoudospace",
-			"boxState": "normal",
 			"sound": "",
 			"speed": 0.05,
-			"portrait": "boii"
+			"portrait": "boii",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "no"
 		},
 		{
-			"expression": "talk",
-			"text": "dum dum",
-			"boxState": "normal",
 			"sound": "",
 			"speed": 0.05,
-			"portrait": "boii"
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "ok"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "boii",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "i am forcing you to rap another battle"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": ":("
 		}
 	]
 }
