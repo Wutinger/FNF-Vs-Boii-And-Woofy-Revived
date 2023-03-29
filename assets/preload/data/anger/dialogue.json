@@ -2,27 +2,27 @@
 	"dialogue": [
 		{
 			"sound": "",
-			"speed": 0.00500000000000001,
-			"portrait": "bf",
+			"speed": 0.05,
+			"portrait": "boii",
 			"boxState": "angry",
 			"expression": "excited",
-			"text": "aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa"
+			"text": "I am angry at you bf!"
 		},
 		{
 			"sound": "",
 			"speed": 0.05,
 			"portrait": "bf",
 			"boxState": "normal",
-			"expression": "talk",
-			"text": "wut"
+			"expression": "shocked",
+			"text": "i didn't even do anything"
 		},
 		{
 			"sound": "",
 			"speed": 0.05,
-			"portrait": "bf",
+			"portrait": "boii",
 			"boxState": "angry",
 			"expression": "excited",
-			"text": "You frootloop lil jklasrfhcyb uosdfgbyuwecrfgy uerai"
+			"text": "you beat me a week ago!"
 		},
 		{
 			"sound": "",
@@ -30,23 +30,17 @@
 			"portrait": "bf",
 			"boxState": "normal",
 			"expression": "talk",
-			"text": ":)"
+			"text": "ok, lets play a song"
 		},
 		{
 			"sound": "",
 			"speed": 0.05,
-			"portrait": "gf",
-			"boxState": "normal",
-			"expression": "talk",
-			"text": "wt"
-		},
-		{
-			"sound": "",
-			"speed": 0.05,
-			"portrait": "bf",
+			"portrait": "boii",
 			"boxState": "normal",
 			"expression": "excited",
-			"text": "a"
+			"text": "..."
 		}
+	
+		
 	]
 }

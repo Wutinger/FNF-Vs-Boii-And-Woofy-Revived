@@ -1,20 +1,3 @@
-function onCreatePost()
-    local songNameNoSpace = songName
-    local difficultyNameUpper = string.upper(difficultyName:sub(1, 1)) .. difficultyName:sub(2, #difficultyName)
-    
-    makeLuaText("infoTxtKade", songNameNoSpace .. " " .. difficultyNameUpper .. " - Boii Engine", 0, 30, 660)
-    setTextSize('infoTxtKade', 16)
-    setTextAlignment('infoTxtKade', 'LEFT')
-    setObjectOrder('infoTxtKade', 40)
-    setTextSize("scoreTxt", 17) --the last number controlls the size of the hud
-    setProperty('scoreTxt.y', 690)
-    --changeNoteSkin('2d', 'player')
-	changeNoteSkin('3d', 'opponent')
-    setProperty('timeTxt.y', 5.5)
-    setProperty('timeBarBG.y', 19)
-    setProperty('timeBar.y', 19)
-end
-
 function changeNoteSkin(skin, player)
     if not (skin == 'vanilla') then -- checks if skin isn't vanilla (basic one)
 	local mustHit = true -- mustHit detects bf's notes
@@ -36,4 +19,22 @@ function changeNoteSkin(skin, player)
             end
         end
     end
+end
+
+function onCreatePost()
+    changeNoteSkin('3d', 'opponent')
+
+    local songNameNoSpace = songName
+    local difficultyNameUpper = string.upper(difficultyName:sub(1, 1)) .. difficultyName:sub(2, #difficultyName)
+    
+    makeLuaText("infoTxtKade", songNameNoSpace .. " " .. difficultyNameUpper .. " - Boii Engine", 0, 30, 660)
+    setTextSize('infoTxtKade', 16)
+    setTextAlignment('infoTxtKade', 'LEFT')
+    setObjectOrder('infoTxtKade', 40)
+    setTextSize("scoreTxt", 17) --the last number controlls the size of the hud
+    setProperty('scoreTxt.y', 690)
+    --changeNoteSkin('2d', 'player')
+    setProperty('timeTxt.y', 5.5)
+    setProperty('timeBarBG.y', 19)
+    setProperty('timeBar.y', 19)
 end

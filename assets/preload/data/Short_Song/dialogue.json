@@ -3,10 +3,26 @@
 		{
 			"sound": "",
 			"speed": 0.05,
+			"portrait": "boii",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "ok bf, that was enough"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
 			"portrait": "bf",
 			"boxState": "normal",
 			"expression": "talk",
-			"text": "oOoOooOO are you gonna become angry?"
+			"text": "no it wasn't "
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "I want another one"
 		},
 		{
 			"sound": "",
@@ -14,15 +30,7 @@
 			"portrait": "boii",
 			"boxState": "normal",
 			"expression": "talk",
-			"text": "no"
-		},
-		{
-			"sound": "",
-			"speed": 0.05,
-			"portrait": "bf",
-			"boxState": "normal",
-			"expression": "talk",
-			"text": "ok"
+			"text": "bruh"
 		},
 		{
 			"sound": "",
@@ -30,7 +38,7 @@
 			"portrait": "boii",
 			"boxState": "normal",
 			"expression": "talk",
-			"text": "i am forcing you to rap another battle"
+			"text": "i'm becoming angry"
 		},
 		{
 			"sound": "",
@@ -38,7 +46,15 @@
 			"portrait": "bf",
 			"boxState": "normal",
 			"expression": "talk",
-			"text": ":("
+			"text": "START Already!!!"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "boii",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "ok, fine!"
 		}
 	]
 }

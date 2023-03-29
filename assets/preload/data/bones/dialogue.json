@@ -1,0 +1,36 @@
+{
+	"dialogue": [
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "woofy",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "i like bones"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "no way, he actually said something!"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "woofy",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "no one's gonna belive u :)"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "let's play a cool song called ''bones'' which is a cover of the week 7 song ''guns''"
+		}
+	]
+}
